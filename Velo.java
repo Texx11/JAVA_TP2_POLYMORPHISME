@@ -1,6 +1,5 @@
-public class Voiture extends Vehicle {
-
-    public Voiture(double vitesseMoyenne) {
+public class Velo extends  Vehicle{
+    public Velo(double vitesseMoyenne) {
         super(vitesseMoyenne);
     }
 
